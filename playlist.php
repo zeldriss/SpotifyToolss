@@ -46,6 +46,6 @@ for($a=0;$a<count($data);$a++){
 	echo "============================================\n";
 	print ("[~] RESULT...\n");
 	echo "============================================\n";
-	echo "[!] TOTAL LIST: " . count($data). "\n[+] FOLLOW PLAYLIST SUCCESS: $live\n[-] GAGAL FOLLOW PLAYLIST: $mati";
+	echo "[!] TOTAL LIST: " . count($data). "\n[+] FOLLOW PLAYLIST SUCCESS: $mati\n[-] GAGAL FOLLOW PLAYLIST: $live";
 
 ?>
